@@ -1,0 +1,103 @@
+﻿2019-07-07T00:18:39.0200115+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-07-07T00:18:39.0201026+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework netcore22 in x64 mode execution started
+2019-07-07T00:18:39.0201070+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-07-07T00:18:39.1051251+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2\specflowDebug.dll
+2019-07-07T00:18:39.1057544+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\zeeshank\source\repos\specflowDebug\TestResults" (default)
+2019-07-07T00:18:39.1059954+05:30;VSTestExecutionThread;Info;Profile: 
+2019-07-07T00:18:39.2507930+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\zeeshank\source\repos\specflowDebug\TestResults\Unnamed project__2019-07-07T001839.log
+2019-07-07T00:18:39.2577706+05:30;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-07T00:18:39.3921914+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-07-07T00:18:39.4121924+05:30;Thread#13;Info;Checking license
+2019-07-07T00:18:39.4133284+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-07T00:18:39.4164349+05:30;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-07T00:18:39.4482729+05:30;Thread#13;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-07-07T00:18:48.4574263+05:30;Thread#13;Info;Evaluation delay finished.
+2019-07-07T00:18:48.4679107+05:30;Thread#13;Info;License check completed
+2019-07-07T00:18:48.4681072+05:30;Thread#13;Info;starting test run
+2019-07-07T00:18:48.4884144+05:30;Thread#13;Info;Discovering target: Default
+2019-07-07T00:18:48.4886200+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2\specflowDebug.dll
+2019-07-07T00:18:49.2063762+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2\specflowDebug.dll
+2019-07-07T00:18:49.2134194+05:30:Test Suite Dump
+2019-07-07T00:18:49.2173441+05:30:#0: Unnamed project/ - 
+2019-07-07T00:18:49.2173663+05:30:#1: Default - 
+2019-07-07T00:18:49.2173688+05:30:#2: specflowDebug - 
+2019-07-07T00:18:49.2173710+05:30:#3: SpecFlowFeature1 - 
+2019-07-07T00:18:49.2174323+05:30:#4: Add two numbers - TestAssembly:specflowDebug/Feature:SpecFlowFeature1/Scenario:Add+two+numbers
+2019-07-07T00:18:49.2174939+05:30:End: Test Suite Dump
+2019-07-07T00:18:49.2867134+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-07-07T00:18:49.2926619+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-07-07T00:18:49.2930239+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-07-07T00:18:49.2998677+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-07-07T00:18:49.2998797+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-07-07T00:18:49.2998823+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-07-07T00:18:49.2998863+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-07-07T00:18:49.3023442+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-07-07T00:18:49.3045783+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-07-07T00:18:49.3114196+05:30:Thread #0: creating new test thread executor for specflowDebug, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-07-07T00:18:49.3154412+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-07-07T00:18:49.3168933+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-07-07T00:18:49.3177526+05:30:using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-07-07T00:18:49.3973232+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-07T00:18:49.4629433+05:30:starting Out Of Process Executor
+2019-07-07T00:18:49.6900999+05:30:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' '"C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll" 17484 2019-07-07T001839 "C:\Users\zeeshank\source\repos\specflowDebug\TestResults" debug' in 'C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2'
+2019-07-07T00:18:49.6931645+05:30;Thread#13;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2019-07-07T00:18:49.7859051+05:30;Thread#13;Info;Successfully started SpecFlow+ Runner executor process
+2019-07-07T00:18:49.7861599+05:30:Entering Memory Barrier for 17888
+2019-07-07T00:18:49.7861643+05:30:Leaving Memory Barrier for 17888
+2019-07-07T00:18:49.8032044+05:30:Out of Process Executor 17888 started
+2019-07-07T00:18:49.9034504+05:30:Waiting for endpoint
+2019-07-07T00:18:49.9057833+05:30:trying to connect to Out of Process Executor the 1 attempt
+2019-07-07T00:18:50.5832985+05:30:waiting for Connection of SpecRun.Executor.17888.Logger ended
+2019-07-07T00:18:50.5874007+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-07T00:18:50.7951062+05:30:Connection to Out of Process Executor established in the 1 attempt
+2019-07-07T00:18:51.6362942+05:30:waiting for Connection of SpecRun.Executor.17888.Callback ended
+2019-07-07T00:18:52.1152916+05:30:2019-07-07T00:18:51.9286954+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2\specflowDebug.dll on test thread #0
+2019-07-07T00:18:52.1598579+05:30:Endpoint 17888 started
+2019-07-07T00:18:52.2213212+05:30:2019-07-07T00:18:52.2191972+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2019-07-07T00:18:52.4568925+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-07-07T00:18:52.5037381+05:30:2019-07-07T00:18:52.4977861+05:30:Thread#0:T:2019-07-07T00:18:52.4941543+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-07-07T00:18:53.0764520+05:30:2019-07-07T00:18:53.0738891+05:30:Thread#0:T:-> Loading plugin C:\Users\zeeshank\source\repos\specflowDebug\specflowDebug\bin\Debug\netcoreapp2.2\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-07-07T00:18:53.0929559+05:30:2019-07-07T00:18:53.0910055+05:30:Thread#0:T:2019-07-07T00:18:53.0908371+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-07-07T00:18:53.1019125+05:30:2019-07-07T00:18:53.1007651+05:30:Thread#0:T:-> Using default config
+2019-07-07T00:18:53.1238000+05:30:2019-07-07T00:18:53.1212906+05:30:Thread#0:T:2019-07-07T00:18:53.1210792+05:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-07T00:18:53.2116129+05:30:2019-07-07T00:18:53.2071801+05:30:Thread#0:B:Given I have entered 50 into the calculator
+2019-07-07T00:18:53.2738768+05:30:2019-07-07T00:18:53.2699525+05:30:Thread#0:T:DebugPoint_1
+2019-07-07T00:18:53.2778215+05:30:2019-07-07T00:18:53.2767926+05:30:Thread#0:T:DebugPoint_2
+2019-07-07T00:18:53.2910362+05:30:2019-07-07T00:18:53.2892586+05:30:Thread#0:T:done: StepDefinition1.GivenIHaveEnteredIntoTheCalculator(50) (0.0s)
+2019-07-07T00:18:53.2955880+05:30:2019-07-07T00:18:53.2942274+05:30:Thread#0:B:And I have entered 70 into the calculator
+2019-07-07T00:18:53.2979304+05:30:2019-07-07T00:18:53.2969420+05:30:Thread#0:T:DebugPoint_1
+2019-07-07T00:18:53.2998075+05:30:2019-07-07T00:18:53.2986908+05:30:Thread#0:T:DebugPoint_2
+2019-07-07T00:18:53.3016519+05:30:2019-07-07T00:18:53.3007015+05:30:Thread#0:T:done: StepDefinition1.GivenIHaveEnteredIntoTheCalculator(70) (0.0s)
+2019-07-07T00:18:53.3208172+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-07-07T00:18:53.3208533+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-07-07T00:18:53.3208566+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-07-07T00:18:53.3208599+05:30:Thread#0:Scheduler: No more tests for thread
+2019-07-07T00:18:53.4644428+05:30:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 1.0063392 seconds
+2019-07-07T00:18:53.5056632+05:30:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-07-07T00:18:54.1190121+05:30:Unable to stop executor process: System.InvalidOperationException: No process is associated with this object.
+   at System.Diagnostics.Process.EnsureState(State state)
+   at System.Diagnostics.Process.get_HasExited()
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.OutProcExecutorManager.StopExecutorProcess(Process executorProcess)
+2019-07-07T00:18:54.1350690+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-07-07T00:18:54.1350906+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-07-07T00:18:54.1350964+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-07-07T00:18:54.1403502+05:30;Thread#13;Info;test run finished
+2019-07-07T00:18:54.1405556+05:30;Thread#13;Info;publishing test results
+2019-07-07T00:18:54.1410525+05:30;Thread#13;Info;Not publishing results.
+2019-07-07T00:18:54.1413368+05:30;Thread#13;Info;test results published
+2019-07-07T00:18:54.1416146+05:30;Thread#13;Info;generating reports
+2019-07-07T00:18:54.2836969+05:30;Thread#13;Info;Starting external report generation process
+2019-07-07T00:18:57.4167248+05:30;Thread#13;Info;Successfully generated reports.
+2019-07-07T00:18:57.4215616+05:30;Thread#13;Info;Successfully generated reports
+2019-07-07T00:18:57.4400484+05:30:Total: 1
+2019-07-07T00:18:57.4442115+05:30:Succeeded: 1
+2019-07-07T00:18:57.4451627+05:30:Ignored: 0
+2019-07-07T00:18:57.4459786+05:30:Pending: 0
+2019-07-07T00:18:57.4459863+05:30:Skipped: 0
+2019-07-07T00:18:57.4467766+05:30:Failed: 0
+2019-07-07T00:18:57.4625420+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-07-07T00:18:57.4626243+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\zeeshank\source\repos\specflowDebug\TestResults\Unnamed project__2019-07-07T001839.html'
+========== End of log file ==========
